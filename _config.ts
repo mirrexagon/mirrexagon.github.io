@@ -5,6 +5,7 @@ const site = lume();
 
 site.use(postcss());
 
+site.copy("CNAME");
 site.copy("static");
 
 export default site;
