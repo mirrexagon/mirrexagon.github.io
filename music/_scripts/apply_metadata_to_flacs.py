@@ -9,7 +9,7 @@ import os
 from mutagen.flac import FLAC
 
 # -- Constants --
-METADATA_PATH = "../music.json"
+METADATA_PATH = "music/_data.json"
 MUSIC_PATH =  os.environ["HOME"] + "/archive/finished_music/music"
 
 TAGS = ["title", "artist", "comment"]
@@ -19,7 +19,7 @@ def main():
     with open(METADATA_PATH) as f:
         metadata = json.load(f)
 
-    for song in metadata:
+    for song in metadata["music"]:
         # Allows not updating last modified time if tags didn't change.
         tags_changed = False
 
