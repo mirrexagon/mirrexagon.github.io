@@ -1,0 +1,631 @@
+{
+    "music": [
+        {
+            "basename": "lmirx_-_frosty",
+            "project_extension": "xrns",
+            "title": "Frosty",
+            "artist": "LMirx",
+            "date": "2020-06-19",
+            "tags": [
+                "renoise"
+            ]
+        },
+        {
+            "basename": "lmirx_-_destiny_fl",
+            "project_extension": "xrns",
+            "title": "Destiny FL",
+            "artist": "LMirx",
+            "tags": [
+                "renoise"
+            ],
+            "comment": "The latest in the line of the same song again and again but differently."
+        },
+        {
+            "basename": "haddaway_-_what_is_love_(lmirx_trance-ish_remix)",
+            "project_extension": "xrns",
+            "title": "What Is Love (LMirx Trance-ish Remix)",
+            "artist": "Haddaway",
+            "tags": [
+                "renoise"
+            ],
+            "comment": "It's too hard to stick to pure genres (trance in this case). So you get this.\n\nPlugins/sample libraries used: Synth1, Cinematic Strings 2 with Kontakt 5"
+        },
+        {
+            "basename": "lmirx_-_blind_siren_respite",
+            "project_extension": "xrns",
+            "title": "Blind Siren: Respite",
+            "artist": "LMirx",
+            "tags": [
+                "renoise",
+                "aeroverse"
+            ],
+            "comment": "A calm version of Blind Siren, or at least it starts that way.\n\nPlugins used: Cinematic Strings 2 with Kontakt 5"
+        },
+        {
+            "basename": "electric_love_-_into_the_sky_prototype",
+            "project_extension": "xrns",
+            "title": "Into the Sky Prototype",
+            "artist": "Electric Love",
+            "tags": [
+                "renoise",
+                "aeroverse"
+            ],
+            "comment": "A remix of Into the Sky."
+        },
+        {
+            "basename": "lmirx_-_i_like_cheese",
+            "project_extension": "xrns",
+            "title": "I Like Cheese",
+            "artist": "LMirx",
+            "tags": [
+                "renoise"
+            ],
+            "comment": "I like cheese and it is very good.\nJust the smell brings me peace and joy.\nThere is no better thing for my bread, than\ncheese on the top for a wonderful time.\n\nI just cannot get this to render quite right.\n\nPlugins/sample libraries used: Hollywood Strings Gold and Hollywood Choirs Gold, plus the matching solo violin and cello"
+        },
+        {
+            "basename": "lmirx_-_hybrid",
+            "project_extension": "xrns",
+            "title": "Hybrid",
+            "artist": "LMirx",
+            "tags": [
+                "renoise"
+            ],
+            "comment": "Plugins/sample libraries used: Cinematic Strings 2 with Kontakt 5"
+        },
+        {
+            "basename": "lmirx_-_blind_siren_battle_mix",
+            "project_extension": "xrns",
+            "title": "Blind Siren: Battle Mix",
+            "artist": "LMirx",
+            "tags": [
+                "renoise",
+                "aeroverse"
+            ],
+            "comment": "Battle version of the theme of Aurora, the Blind Siren.\n\nHeavily inspired by The Leviathan Trilogy by DM DOKURO, from the Terraria Calamity mod soundtrack."
+        },
+        {
+            "basename": "lmirx_-_buzz_buzz",
+            "project_extension": "sunvox",
+            "title": "Buzz Buzz",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ]
+        },
+        {
+            "basename": "lmirx_-_upper_hand",
+            "project_extension": "xrns",
+            "title": "Upper Hand",
+            "artist": "LMirx",
+            "tags": [
+                "renoise"
+            ],
+            "comment": "This started as Eurobeat, and slowly spiralled out of control. The name is from this sounding like it would play when the hero has gotten the upper hand on the villain and is executing their epic coordinated plan to defeat them.\n\nPlugins used: Synth1, Cinematic Strings 2 with Kontakt 5"
+        },
+        {
+            "basename": "lmirx_-_sometimes_i_reach_out_and_touch_the_stars",
+            "project_extension": "xrns",
+            "title": "Sometimes I Reach Out and Touch the Stars",
+            "artist": "LMirx",
+            "tags": [
+                "renoise",
+                "aeroverse"
+            ],
+            "comment": "Theme of Star Painter, in an unfamiliar world.\n\nPlugins used: Cinematic Strings 2 via Kontakt 5"
+        },
+        {
+            "basename": "lmirx_-_sometimes_i_look_up_at_the_stars",
+            "project_extension": "sunvox",
+            "title": "Sometimes I Look Up at the Stars",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox",
+                "aeroverse"
+            ],
+            "comment": "Theme of Star Painter."
+        },
+        {
+            "basename": "dave_rodgers_-_deja_vu_(lmirx_determined_cover)",
+            "project_extension": "xrns",
+            "title": "Deja Vu (LMirx Determined Cover)",
+            "artist": "Dave Rodgers",
+            "tags": [
+                "renoise"
+            ],
+            "comment": "Imagine: the car is racing towards the bend. The racer's behind, and they have only one chance to get back into the race. Against all odds, they have to make this drift.\n\nPlugins/sample libraries used: Cinematic Strings 2 via Kontakt 5, Virtual Playing Orchestra's drum kit with Plogue Sforzando"
+        },
+        {
+            "basename": "lmirx_-_boss_time",
+            "project_extension": "xrns",
+            "title": "Boss Time",
+            "artist": "LMirx",
+            "tags": [
+                "renoise"
+            ],
+            "comment": "This one was inspired by the RPG Maker MV bundled music, and RPGs in general. If you have dblue's Glitch plugin, you can enable it on the master track for a somewhat glitchy version of the song."
+        },
+        {
+            "basename": "lmirx_-_epic",
+            "project_extension": "xrns",
+            "title": "Epic",
+            "artist": "LMirx",
+            "tags": [
+                "renoise"
+            ],
+            "comment": "Plugins used: Cinematic Strings 2 via Kontakt 5, Virtual Playing Orchestra's tubular bells with Plogue Sforzando"
+        },
+        {
+            "basename": "lmirx_-_impending",
+            "project_extension": "xrns",
+            "title": "Impending",
+            "artist": "LMirx",
+            "tags": [
+                "renoise"
+            ],
+            "comment": "This started as an attempt to copy a song from the Shokugeki No Soma anime (https://www.youtube.com/watch?v=v90pvDofq5s&t=1307s). It ended up turning out quite different."
+        },
+        {
+            "basename": "lmirx_-_we_are_get_lucky",
+            "title": "We Are Get Lucky",
+            "artist": "LMirx",
+            "tags": [
+                "fl studio"
+            ],
+            "comment": "Surprisingly I couldn't find a mashup of We Are Number One and Daft Punk - Get Lucky, despite them fitting together really well without that many changes. So I made one!"
+        },
+        {
+            "basename": "darude_-_sandstorm_(lmirx_heavy_remix)",
+            "project_extension": "sunvox",
+            "title": "Sandstorm (LMirx Heavy Remix)",
+            "artist": "Darude",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "I made a cool-sounding bass, and used it to make something based off Darude - Sandstorm, because why not."
+        },
+        {
+            "basename": "lmirx_-_bring_it_on",
+            "project_extension": "sunvox",
+            "title": "Bring It On",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "A fast-paced electronic piece. I want to use this for battle music!"
+        },
+        {
+            "basename": "lmirx_-_stride_on_through_life",
+            "project_extension": "sunvox",
+            "title": "Stride On Through Life",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox",
+                "aeroverse",
+                "cloud patrol"
+            ],
+            "comment": "If Into the Sky was the opening theme of a game, this would be the credits music."
+        },
+        {
+            "basename": "lmirx_-_into_the_sky",
+            "project_extension": "sunvox",
+            "title": "Into the Sky",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox",
+                "aeroverse",
+                "cloud patrol"
+            ],
+            "comment": "A happy chiptune. Spread your wings and fly into the sky!"
+        },
+        {
+            "basename": "lmirx_-_love_you",
+            "project_extension": "sunvox",
+            "title": "Love You",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "I felt like playing with a piano instrument for this one. It's a bit short, maybe too short, but I still think it works. The hardest part was getting all the volumes balanced (I'm still not convinced that they are, but oh well)."
+        },
+        {
+            "basename": "nobuo_uematsu_-_terra_(lmirx_cover)",
+            "project_extension": "sunvox",
+            "title": "Terra (LMirx Cover)",
+            "artist": "Nobuo Uematsu",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "My take on an iconic theme from Final Fantasy VI."
+        },
+        {
+            "basename": "yasunori_mitsuda_-_chrono_trigger_battle_1_(lmirx_cover)",
+            "project_extension": "sunvox",
+            "title": "Chrono Trigger Battle 1 (LMirx Cover)",
+            "artist": "Yasunori Mitsuda",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "Electronic cover of the Chrono Trigger battle music."
+        },
+        {
+            "basename": "lmirx_-_swagger",
+            "project_extension": "sunvox",
+            "title": "Swagger",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "It took me a while to come up with a name for this, but I think \"Swagger\" describes it perfectly. I accidentally made the ending somewhat unsatisfying, so be prepared to want to listen to this over and over forever."
+        },
+        {
+            "basename": "drax_-_tristesse_(lmirx_wobble_cover)",
+            "project_extension": "sunvox",
+            "title": "Tristesse (LMirx Wobble Cover)",
+            "artist": "DRAX",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "I was trying to make a wobble bass in SunVox. I also was trying to transcribe this song. I combined the two!"
+        },
+        {
+            "basename": "lmirx_-_dream_march",
+            "project_extension": "sunvox",
+            "title": "Dream March",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "This sat in my WIP folder for ages because I thought it was too short, but nothing I added sounded good. I think it's actually pretty great as is."
+        },
+        {
+            "basename": "lmirx_-_city_night",
+            "project_extension": "sunvox",
+            "title": "City Night",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "This one was sitting around in my WIP folder for ages, until I eventually decided to just call it finished."
+        },
+        {
+            "basename": "lmirx_-_demo_one",
+            "project_extension": "sunvox",
+            "title": "Demo One",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "Now this, this is a big one.\n\nThis song started off as a chiptune, written as though for a demoscene demo. I got up to where the chiptune ends, and ran out of ideas.\n\nIt lay around in my WIP folder for quite a while. Then one day I went back to it and thought, \"Wouldn't this be awesome as a kind of mashup of chiptune, electro and acoustic instruments?\" This is the result!\n\nIf you do take a look at the source file in SunVox, behold the giant module graph in all its glory!"
+        },
+        {
+            "basename": "lmirx_-_sundance",
+            "project_extension": "sunvox",
+            "title": "Sundance",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "I played around with a few new things with this one, namely tempo and style changes. I'm pretty happy how it turned out."
+        },
+        {
+            "basename": "lmirx_-_power_on",
+            "project_extension": "sunvox",
+            "title": "Power On",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "I'm not entirely sure what to call this. Fast-paced techno thing? I didn't pay much attention when I was making this, or at least I barely remember doing it."
+        },
+        {
+            "basename": "lmirx_-_trudge",
+            "project_extension": "it",
+            "title": "Trudge",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "A chiptune. I returned to OpenMPT briefly to make this after having switched to SunVox a while back."
+        },
+        {
+            "basename": "nightradio_-_follow_the_sun_(lmirx_remix)",
+            "project_extension": "sunvox",
+            "title": "Follow the Sun (LMirx Remix)",
+            "artist": "NightRadio",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "Follow the Sun is one of the example songs bundled with SunVox, and it's also written by the creator. It's my favourite of the example songs. This remix uses a few instruments and patterns copied directly from the original, so I suppose this is kind of an edit as well?"
+        },
+        {
+            "basename": "lmirx_-_marimba_thing",
+            "project_extension": "sunvox",
+            "title": "Marimba Thing",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "A song made entirely of marimbas, with some nice echo and reverb. Don't mind the unoriginal name."
+        },
+        {
+            "basename": "lmirx_-_castle",
+            "project_extension": "sunvox",
+            "title": "Castle",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "I think this one sounds a bit medieval, hence the name."
+        },
+        {
+            "basename": "lmirx_-_ghostly_touch",
+            "project_extension": "sunvox",
+            "title": "Ghostly Touch",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "I was playing around with sines, filters and LFOs. Not my greatest work, but still alright."
+        },
+        {
+            "basename": "lmirx_-_fate_of_the_world",
+            "project_extension": "sunvox",
+            "title": "Fate of the World",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "A fast paced mostly electronic song. I rank this pretty highly in all the songs I've made."
+        },
+        {
+            "basename": "lmirx_-_fluorescent",
+            "project_extension": "sunvox",
+            "title": "Fluorescent",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "A full-on electronic song with an awesome (if I do say so myself) bass line."
+        },
+        {
+            "basename": "lmirx_-_showtime",
+            "project_extension": "sunvox",
+            "title": "Showtime",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "Fast-paced endlessly-looping mostly-electronic song, with the plucky instrument I love so much. I made this in the early days of using SunVox, and sometime later I looked back on it sometimes and thought, \"I have no idea how I'm going to make anything as awesome as this again.\" I love it."
+        },
+        {
+            "basename": "lmirx_-_candy_stall",
+            "project_extension": "sunvox",
+            "title": "Candy Stall",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "I don't usually write upbeat happy songs (for whatever reason), but this is one!"
+        },
+        {
+            "basename": "lmirx_-_basement",
+            "project_extension": "sunvox",
+            "title": "Basement",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "One of my first SunVox songs. It's more an ambient loop than a song."
+        },
+        {
+            "basename": "lmirx_-_weather_factory",
+            "project_extension": "sunvox",
+            "title": "Weather Factory",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "This one's a chiptune. It's one of my first SunVox songs."
+        },
+        {
+            "basename": "lmirx_-_chipthing",
+            "title": "Chip Thing",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "My first foray into using only simple waveforms in a song (ie. chiptune). I was trying to make a dubstep-like wobble bass, but it didn't work out and so I made this instead."
+        },
+        {
+            "basename": "lmirx_-_destiny_inspired",
+            "project_extension": "it",
+            "title": "Destiny Inspired",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "You can never have too many remixes of one song!"
+        },
+        {
+            "basename": "lmirx_-_your_destiny_awaits",
+            "project_extension": "sunvox",
+            "title": "Your Destiny Awaits",
+            "artist": "LMirx",
+            "tags": [
+                "sunvox"
+            ],
+            "comment": "My second remix of \"Destiny\", this time done in SunVox! I have a sort of inside joke with myself that I'll just keep remixing Destiny over and over."
+        },
+        {
+            "basename": "lmirx_-_destiny_redux",
+            "project_extension": "it",
+            "title": "Destiny Redux",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "A remix of my own song \"Destiny\". This version is more fast-paced, and still retains a lot of the original."
+        },
+        {
+            "basename": "lmirx_-_destiny",
+            "project_extension": "it",
+            "title": "Destiny",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "\"You can't escape your destiny.\"\n\nI love the plucky instrument in this song. I don't know what it is but I pinched it from \"Inside a Dream\" by Awesome and have since heard it in quite a few songs."
+        },
+        {
+            "basename": "lmirx_-_lost",
+            "project_extension": "it",
+            "title": "Lost",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "\"It is all too easy to become lost in the pure vastness of a mind.\"\n\nGuitars! One of which is my sample, the other comes from \"guitarv2\" by Buzzer."
+        },
+        {
+            "basename": "lmirx_-_march",
+            "project_extension": "it",
+            "title": "March",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "A short, mostly acoustic piece (as acoustic as you can get with samples, anyway). I learned that you could make snare rolls with the retrigger command, so I made a song with that in it!"
+        },
+        {
+            "basename": "lmirx_-_pianothing",
+            "project_extension": "it",
+            "title": "Piano Thing",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "A calm song featuring a piano (unsurprisingly). I rather like this one. I didn't have any other ideas for what to call it, so the name isn't very original."
+        },
+        {
+            "basename": "lmirx_-_prepare",
+            "project_extension": "it",
+            "title": "Prepare",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "\"Are you ready to face the challenge?\"\n\nI asked my friend to pick out some samples from a large collection of tracker modules as a composition challenge. He picked mostly orchestral samples, with a synth in the mix. This is what I made."
+        },
+        {
+            "basename": "lmirx_-_searching",
+            "project_extension": "it",
+            "title": "Searching",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "\"Even though you may never find it, you still keep searching.\"\n\nA calm, slightly solemn piece, featuring a piano sample taken from \"Beyond the Heart\" by Awesome.\n\nAround the time I made this, I was playing around with making an isometric RPG. I thought this would make a good theme for exploring an island in the middle of the sea near the start of the game, with wind-through-grass noises in the background."
+        },
+        {
+            "basename": "lmirx_-_tes",
+            "project_extension": "it",
+            "title": "The Elder Scrolls",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "I was playing Skyrim around the time I made this."
+        },
+        {
+            "basename": "lmirx_-_the_end",
+            "project_extension": "it",
+            "title": "The End",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ]
+        },
+        {
+            "basename": "daniel_ingram_-_winter_wrap_up_(lmirx_cover)",
+            "project_extension": "it",
+            "title": "Winter Wrap Up (LMirx Cover)",
+            "artist": "Daniel Ingram",
+            "tags": [
+                "openmpt",
+                "mlp"
+            ],
+            "comment": "Much of this is actually copied from sheet music (http://www.everyponysings.com/2011/05/big-news-winter-wrap-up-sheet-music-and.html), because I'm not great at transcribing by ear."
+        },
+        {
+            "basename": "david_larson_-_double_rainboom_(lmirx_calm_cover)",
+            "project_extension": "it",
+            "title": "Double Rainboom (LMirx Calm Cover)",
+            "artist": "David Larson",
+            "tags": [
+                "openmpt",
+                "mlp"
+            ],
+            "comment": "A calm cover of the Double Rainboom theme, without vocals."
+        },
+        {
+            "basename": "david_larson_-_double_rainboom_(lmirx_techno_remix)",
+            "project_extension": "it",
+            "title": "Double Rainboom (LMirx Techno Remix)",
+            "artist": "David Larson, Mandopony",
+            "tags": [
+                "openmpt",
+                "mlp"
+            ],
+            "comment": "A remix of the theme of Double Rainboom, an MLP: FiM fan animation made by people all over the world (or something like that), that sadly was taken down by the lead producer. You can still find it online though. The module file for this is 18 megabytes because it contains the entire vocal track uncompressed."
+        },
+        {
+            "basename": "lmirx_-_glow",
+            "project_extension": "it",
+            "title": "Glow",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "\"Bask in the glow, and let it absorb you. Let everything wash away.\"\n\nThis song apparently invokes images of a forest glade."
+        },
+        {
+            "basename": "lmirx_-_twilight",
+            "project_extension": "it",
+            "title": "Twilight",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "\"Embrace the twilight, live in it. It won't last.\"\n\nA little ambient piece that came from messing with a chord entry thing OpenMPT has."
+        },
+        {
+            "basename": "koji_kondo_-_song_of_storms_(lmirx_16-bit_cover)",
+            "project_extension": "it",
+            "title": "Song of Storms (LMirx 16-bit Cover)",
+            "artist": "Koji Kondo",
+            "tags": [
+                "openmpt"
+            ]
+        },
+        {
+            "basename": "lmirx_-_never-ending_sorrow",
+            "project_extension": "it",
+            "title": "Never-ending Sorrow",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "\"When there is no hope, sorrow overcomes all.\"\n\nAn electronic 16-bit-ish song.\n\nThis song was made for a small game I did with a few other people, for a 3D character modelling and animation course marketed as being video-game-oriented. They had to put something in there to justify that marketing!"
+        },
+        {
+            "basename": "lmirx_-_final_sacrifice",
+            "project_extension": "it",
+            "title": "Final Sacrifice",
+            "artist": "LMirx",
+            "tags": [
+                "openmpt"
+            ],
+            "comment": "\"The Final Sacrifice is your life.\"\n\nThe first song I ever made (well, technically second, but we don't talk about the first)! Chord progression comes from \"destiny\" by Radix."
+        }
+    ]
+}
