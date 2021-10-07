@@ -30,7 +30,8 @@ header {
 }
 
 ul#links {
-
+    max-width: 80%;
+    margin: auto;
 }
 
 ul#links > li {
