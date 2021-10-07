@@ -1,6 +1,17 @@
 {
     "music": [
         {
+            "basename": "lmirx_-_rise",
+            "project_extension": "xrns",
+            "title": "Rise",
+            "artist": "LMirx",
+            "date": "2021-06-05",
+            "tags": [
+                "renoise"
+            ],
+            "comment": "Plugins/sample libraries used: Heavier7Strings"
+        },
+        {
             "basename": "lmirx_-_frosty",
             "project_extension": "xrns",
             "title": "Frosty",

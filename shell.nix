@@ -1,4 +1,4 @@
-{ pkgs ? import <nixpkgs> {} }:
+{ pkgs ? import <nixpkgs> { } }:
 
 pkgs.mkShell {
   buildInputs = with pkgs; [
@@ -11,7 +11,7 @@ pkgs.mkShell {
 
   shellHook = ''
     lume() {
-      deno run --unstable -A https://deno.land/x/lume@v0.15.0/cli.js "$@"
+      deno run --unstable -A https://deno.land/x/lume@v1.1.0/ci.ts "$@"
     }
   '';
 }

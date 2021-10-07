@@ -25,19 +25,16 @@ a:active {
     color: #ffffff;
 }
 
-#header {
-    padding-top: 32px;
-    padding-left: 48px;
-    padding-right: 48px;
-    padding-bottom: 0px;
-
-    img {
-        display: inline-block;
-    }
+header {
+    margin-bottom: 40px;
 }
 
-#hrule {
-    padding: 0px 76px;
+ul#links {
+
+}
+
+ul#links > li {
+    padding-top: 10px;
 }
 
 div#music-search {
@@ -79,6 +76,8 @@ div.song-item {
     padding: 0;
     margin: 0;
     margin-bottom: 12px;
+    font-weight: bold;
+    font-size: 26pt;
 }
 
 ul.song-downloads {
