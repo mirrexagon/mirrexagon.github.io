@@ -19,23 +19,17 @@ function main() {
     }, true);
 
     // Play the next song once the current has finished.
-    /*
     window.addEventListener("ended", function(evt) {
-        let index = global_audios.findIndex(audio => audio == window.$_currentlyPlaying);
+        let all_audios = Array.prototype.slice.call(document.getElementsByClassName("song-audio"));
+        let index = all_audios.findIndex(audio => audio == window.$_currentlyPlaying);
 
-        // Scroll to and play next visible song.
-        for (let i = index + 1; i < global_audios.length; ++i) {
-            if (global_visible_songs[i]) {
-                window.location.hash = "#song-" + i;
-
-                global_audios[i].play();
-                window.$_currentlyPlaying = global_audios[i];
-
-                break;
-            }
+        let next_audio = all_audios[index + 1];
+        if (next_audio) {
+            next_audio.parentElement.scrollIntoView();
+            next_audio.play();
+            window.$_currentlyPlaying = next_audio;
         }
     }, true);
-    */
 }
 
 main();
