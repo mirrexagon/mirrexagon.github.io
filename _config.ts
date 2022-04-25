@@ -8,4 +8,6 @@ site.use(postcss());
 site.copy("CNAME");
 site.copy("static");
 
+site.copy("music/music-viewer.js");
+
 export default site;
