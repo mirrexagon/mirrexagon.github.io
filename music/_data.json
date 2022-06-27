@@ -1,6 +1,18 @@
 {
     "music": [
         {
+            "basename": "mirrexagon_-_aurora",
+            "project_extension": "xrns",
+            "title": "Aurora",
+            "artist": "Mirrexagon",
+            "date": "2022-06-27",
+            "tags": [
+                "renoise",
+                "aeroverse"
+            ],
+            "comment": "A simple theme for Aurora."
+        },
+        {
             "basename": "mirrexagon_-_neon_lights",
             "project_extension": "xrns",
             "title": "Neon Lights",
