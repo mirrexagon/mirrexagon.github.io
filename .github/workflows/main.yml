@@ -18,7 +18,7 @@ jobs:
 
       - name: Run lume
         run: |
-          deno run -A https://deno.land/x/lume@v1.1.0/ci.ts --location=https://mirx.dev
+          deno run -A https://deno.land/x/lume@v1.10.1/ci.ts --location=https://mirx.dev
 
       - name: Deploy
         uses: crazy-max/ghaction-github-pages@v2.0.1

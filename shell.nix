@@ -11,7 +11,7 @@ pkgs.mkShell {
 
   shellHook = ''
     lume() {
-      deno run --unstable -A https://deno.land/x/lume@v1.1.0/ci.ts "$@"
+      deno run --unstable -A https://deno.land/x/lume@v1.10.1/ci.ts "$@"
     }
   '';
 }

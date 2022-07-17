@@ -1,5 +1,5 @@
-import lume from "https:/deno.land/x/lume@v1.1.0/mod.ts";
-import postcss from "https:/deno.land/x/lume@v1.1.0/plugins/postcss.ts";
+import lume from "https:/deno.land/x/lume@v1.10.1/mod.ts";
+import postcss from "https:/deno.land/x/lume@v1.10.1/plugins/postcss.ts";
 
 const site = lume();
 
