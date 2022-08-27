@@ -1,6 +1,17 @@
 {
     "music": [
         {
+            "basename": "mirrexagon_-_blind_siren_precipice",
+            "project_extension": "xrns",
+            "title": "Blind Siren: Precipice",
+            "artist": "Mirrexagon",
+            "tags": [
+                "renoise",
+                "aeroverse"
+            ],
+            "comment": "Yet another take on Blind Siren.\n\nPlugins/sample libraries used: Damage 2 by Heavyocity, Cinematic Studio Strings by Alex Wallbank, Nucleus by Audio Imperia, AAS Analog Essentials, The Grandeur by Native Instruments, Heavier7Strings by Three-Body Technology, EZbass by Toontrack"
+        },
+        {
             "basename": "mirrexagon_-_city_streets",
             "project_extension": "xrns",
             "title": "City Streets",
