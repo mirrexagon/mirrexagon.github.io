@@ -1,0 +1,162 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body {
+    background-color: #1b1b1b;
+    color: #e0e0e0;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 24pt;
+
+    max-width: 650px;
+    margin: 40px auto;
+    padding: 0px 10px;
+}
+
+a:link {
+    color: #d0d0d0;
+}
+
+a:visited {
+    color: #909090;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+a:active {
+    color: #ffffff;
+}
+
+header {
+    margin-bottom: 40px;
+}
+
+ul#links {
+    max-width: 80%;
+    margin: auto;
+}
+
+ul#links > li {
+    padding-top: 10px;
+}
+
+div#music-search {
+    padding: 0 128px 8px;
+}
+
+#music-search input {
+    font-size: 14pt;
+    width: 100%;
+}
+
+#music-viewer {
+    font-size: 18pt;
+    padding: 16px;
+    line-height: 1.4;
+}
+
+ul#music-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+div.song-item {
+    background-color: #2b2b2b;
+    padding: 8px 16px;
+    margin-bottom: 24px;
+}
+
+.song-item p {
+    padding: 8px 0;
+    margin: 0;
+    font-size: 14pt;
+
+    white-space: pre-wrap;
+}
+
+.song-title {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 12px;
+    font-weight: bold;
+    font-size: 26pt;
+}
+
+ul.song-downloads {
+    padding: 0;
+    margin: 0;
+}
+
+ul.song-downloads li {
+    display: inline;
+    font-size: 14pt;
+}
+
+.song-audio {
+    width: 100%;
+}
+
+ul.song-tags {
+    padding: 0;
+    margin: 0;
+}
+
+ul.song-tags li {
+    display: inline;
+    font-size: 12pt;
+}
