@@ -1,6 +1,17 @@
 {
     "music": [
         {
+            "basename": "mirrexagon_-_epic_time_sax_upper_hand",
+            "project_extension": "xrns",
+            "title": "Epic Time Sax Upper Hand",
+            "artist": "Mirrexagon",
+            "date": "2025-01-12",
+            "tags": [
+                "renoise"
+            ],
+            "comment": "An edit of Upper Hand with the melody of a song called Epic Time Sax. Plugins used: Synth1, Cinematic Studio Strings by Alex Wallbank with Kontakt 6 Player"
+        },
+        {
             "basename": "mirrexagon_-_blind_siren_precipice",
             "project_extension": "xrns",
             "title": "Blind Siren: Precipice",
